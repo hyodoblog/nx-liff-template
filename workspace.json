@@ -2,7 +2,6 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
-    "liff": "apps/liff",
-    "liff-e2e": "apps/liff-e2e"
+    "liff": "apps/liff"
   }
 }
